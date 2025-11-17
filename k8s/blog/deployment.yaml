@@ -2,7 +2,7 @@ apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: blog
-  namespace: demo-blog
+  namespace: laura-blog
   labels:
     app: blog
 spec:
